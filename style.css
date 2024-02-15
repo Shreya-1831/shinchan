@@ -1,0 +1,61 @@
+body{
+    background-image: url(background.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+}
+.image{
+    margin: 0;
+    padding: 0;
+    width: 1700px;
+}
+.intro{
+    text-align: center;
+    margin: 200px;
+    color: white;
+    display: inline-block;
+    width: 1000px;
+    font-style: inherit;
+}
+.Text{
+    margin: 100px;
+    width: 5px;
+    height: 2px;
+}
+h2{
+    right: 100px;
+}
+.One{
+    border: solid grey 2px;
+    display: inline-block;
+    width: auto;
+    margin: 100px;
+    position: relative;
+    width: 220px;
+    background-color: white;
+    padding: 2px;
+}
+.One1{
+    position: static;
+}
+li{
+
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+li,ul{
+    display: inline;
+    cursor: pointer;
+}
+ul{
+    margin-left: 70%;
+}
+li:hover{
+    color: grey;
+}
+.nav{
+    display: inline;
+    cursor: pointer;
+}
